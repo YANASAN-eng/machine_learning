@@ -4,8 +4,6 @@ import json
 import numpy as np
 from matplotlib import pyplot as py
 
-#今回は，2層のニューラルネットワークを使ってフィッティングするよ。
-
 #フィッテングするデータをプロット
 x = []
 y = []
