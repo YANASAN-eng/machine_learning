@@ -1,2 +1,0 @@
-F:
-cd xampp\htdocs\yana_university\app\Python\
